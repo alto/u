@@ -1,0 +1,65 @@
+body {
+  font-size: 2.0em;
+/*  font-family: "Handwriting - Dakota";*/
+/*  font-family: "Reenie Beanie";*/
+  font-family: "IM Fell English", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #0f0f0f;
+  color: #101033;
+}
+
+* html a:hover {visibility:visible}
+
+div#main {
+  margin: 0 auto -25px;
+  width: 600px;
+}
+
+h1 { 
+/*  font-family: "Reenie Beanie";*/
+  font-size: 3em;
+  font-variant: small-caps;
+}
+
+h2 {
+  clear: both;
+}
+
+div.introduction p {
+/*  font-family: "Handwriting - Dakota";*/
+}
+
+em {
+  font-weight: bold;
+  font-size: 1.1em;
+  font-style: normal;
+}
+
+a {
+  font-weight: bold;
+  color: #101033;
+/*  color: #202022;*/
+/*  text-decoration: none;*/
+}
+
+h1 a {
+  text-decoration: none;
+}
+
+/*div.introduction {
+  position: relative;
+  left: -253px;
+  width: 853px;
+}
+*/
+
+div.introduction {
+  position: relative;
+}
+
+div.introduction img {
+/*  float: left;*/
+  position: absolute;
+  left: -283px;
+  top: 0px;
+}
+
